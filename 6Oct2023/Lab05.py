@@ -1,0 +1,16 @@
+n=int(input('Enter number\t'))
+
+print(n)
+
+print(f'{3} X 2 = {3*2}')
+print(f'{3} X 1 = {3*1}')
+print(f'{3} X 3 = {3*3}')
+print(f'{3} X 4 = {3*4}')
+print(f'{3} X 5 = {3*5}')
+print(f'{3} X 6 = {3*6}')
+print(f'{3} X 7 = {3*7}')
+print(f'{3} X 8 = {3*8}')
+print(f'{3} X 9 = {3*9}')
+print(f'{3} X 10 = {3*10}')
+print(f'{3} X 11 = {3*11}')
+print(f'{3} X 12 = {3*12}')
